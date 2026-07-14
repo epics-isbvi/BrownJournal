@@ -1,0 +1,3 @@
+body{font-family:Georgia,serif;background:#e8dcc2;text-align:center;padding:40px}
+.wheel{display:inline-block;margin:20px;padding:20px;border:6px solid #8b6b2f;border-radius:50%;width:120px;height:120px;font-size:48px;line-height:120px;cursor:pointer;background:#b08d57;color:#222;user-select:none}
+button{font-size:20px;padding:10px 20px}
